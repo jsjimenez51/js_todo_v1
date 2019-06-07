@@ -1,2 +1,2 @@
-# This is a To Do List App Project in JavaScript
+# This is a To Do List App project in JavaScript
 
