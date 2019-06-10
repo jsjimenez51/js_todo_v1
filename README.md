@@ -1,11 +1,11 @@
 # To Do List Version 1.0
 
 ## What is it?
-A To Do List App built in JavaScript
+A To Do List App
 
 This app allows a user to create a To Do List by adding or deleting items from
 that list. Also, allows a user to search for a specific item added to the list
-via a search box.
+via a search box. The focus behind this app is to showcase specific JS functionality.
 
 ### Concepts:
 - Event Listeners
