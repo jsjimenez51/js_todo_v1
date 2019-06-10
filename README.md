@@ -28,11 +28,11 @@ https://bigjoshs-frontend-todo-app.web.app/?search=lear
 - [x] Search for existing Item in List
 
 ## Roadmap for Improvement:
-- [x] List persistence (local storage)
-- [x] List Title renaming
-- [x] Make items movable/reorder feature
-- [x] Theme toggling/changing
-- [x] Exporting list
+- List persistence (local storage)
+- List Title renaming
+- Make items movable/reorder feature
+- Theme toggling/changing
+- Exporting list
 
 ---
 
