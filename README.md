@@ -29,7 +29,18 @@ https://bigjoshs-frontend-todo-app.web.app/?search=lear
 
 ## Screenshots:
 #### List with existing Items
-![The To Do List at work](public/img/defaultState.png){height="50%" width="50%"}
+<img
+src="https://raw.githubusercontent.com/jsjimenez51/js_todo_v1/master/public/img/defaultState.png"
+height="400">
+#### Using the Add feature
+<img
+src="https://raw.githubusercontent.com/jsjimenez51/js_todo_v1/master/public/img/addFeature.png"
+height="400">
+#### Using the Search Feature
+<img
+src="https://raw.githubusercontent.com/jsjimenez51/js_todo_v1/master/public/img/searchFeature.png"
+height="400">
+
 
 ### Roadmap for Improvement:
 - List persistence (local storage)
