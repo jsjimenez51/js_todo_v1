@@ -13,10 +13,10 @@ via a search box.
 - Filter method usage
 - Input/Search handling
 
-## View Here:
+### View Here:
 https://bigjoshs-frontend-todo-app.web.app/?search=lear
 
-### Built with:
+## Built with:
 - [x] HTML
 - [x] CSS
 - [x] JavaScript
@@ -27,7 +27,11 @@ https://bigjoshs-frontend-todo-app.web.app/?search=lear
 - [x] Remove existing To Do Item from list
 - [x] Search for existing Item in List
 
-## Roadmap for Improvement:
+## Screenshots:
+#### List with existing Items
+![The To Do List at work](public/img/defaultState.png){height="50%" width="50%"}
+
+### Roadmap for Improvement:
 - List persistence (local storage)
 - List Title renaming
 - Make items movable/reorder feature
